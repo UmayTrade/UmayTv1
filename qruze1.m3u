@@ -670,215 +670,398 @@ http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583040&e
 #EXTINF:-1 tvg-name="SEZEN AKSU" tvg-id=" SEZEN AKSU" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SEZEN AKSU
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583039&extension=ts
 
-
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , YILDIZ TILBE
+#EXTINF:-1 tvg-name="YILDIZ TILBE" tvg-id=" YILDIZ TILBE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", YILDIZ TILBE
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583038&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , EMIRCAN IGREK
+
+
+#EXTINF:-1 tvg-name="EMIRCAN IGREK" tvg-id=" EMIRCAN IGREK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", EMIRCAN IGREK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583037&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , RELAX CHİLL HOUSE MUSİC
+
+#EXTINF:-1 tvg-name="RELAX CHİLL HOUSE MUSİC" tvg-id=" RELAX CHİLL HOUSE MUSİC" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", RELAX CHİLL HOUSE MUSİC
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583036&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , UMIT BESEN
+
+#EXTINF:-1 tvg-name="UMIT BESEN" tvg-id=" UMIT BESEN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", UMIT BESEN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583035&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , BLOK 13
+
+#EXTINF:-1 tvg-name="BLOK 13" tvg-id=" BLOK 13" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", BLOK 13
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583034&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , EZEL
+
+#EXTINF:-1 tvg-name="EZEL" tvg-id=" EZEL" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", EZEL
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583033&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , CAKAL
+
+#EXTINF:-1 tvg-name="CAKAL" tvg-id=" CAKAL" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", CAKAL
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583032&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , GUNES
+
+#EXTINF:-1 tvg-name="GUNES" tvg-id=" GUNES" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", GUNES
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583031&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , UZI
+
+#EXTINF:-1 tvg-name="UZI" tvg-id=" UZI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", UZI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583030&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NESET ERTAS
+
+#EXTINF:-1 tvg-name="NESET ERTAS" tvg-id=" NESET ERTAS" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", NESET ERTAS
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583029&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SERTAB ERENER
+
+#EXTINF:-1 tvg-name="SERTAB ERENER" tvg-id=" SERTAB ERENER" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SERTAB ERENER
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583028&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , DEDUBLUMAN
+
+#EXTINF:-1 tvg-name="DEDUBLUMAN" tvg-id=" DEDUBLUMAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", DEDUBLUMAN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583027&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SEMICENK
+
+#EXTINF:-1 tvg-name="SEMICENK" tvg-id=" SEMICENK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SEMICENK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583026&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TURKCE RAP 1
+
+#EXTINF:-1 tvg-name="TURKCE RAP 1" tvg-id=" TURKCE RAP 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", TURKCE RAP 1
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583025&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TURKCE RAP 3
+
+
+#EXTINF:-1 tvg-name="TURKCE RAP 2" tvg-id=" TURKCE RAP 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", TURKCE RAP 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583024&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TURKCE RAP 4
+
+
+#EXTINF:-1 tvg-name="TURKCE RAP 4" tvg-id=" TURKCE RAP 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", TURKCE RAP 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583023&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TURKCE RAP 5
+
+
+#EXTINF:-1 tvg-name="TURKCE RAP 5" tvg-id=" TURKCE RAP 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", TURKCE RAP 5
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583022&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TURKCE RAP 6
+
+
+#EXTINF:-1 tvg-name="TURKCE RAP 6" tvg-id=" TURKCE RAP 6" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", TURKCE RAP 6
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583021&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK ROCK
+
+#EXTINF:-1 tvg-name="KARISIK ROCK" tvg-id=" KARISIK ROCK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", KARISIK ROCK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583020&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , DAMAR SARKILAR
+
+#EXTINF:-1 tvg-name="DAMAR SARKILAR" tvg-id=" DAMAR SARKILAR" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", DAMAR SARKILAR
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583019&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , MEYHANE SARKILARI
+
+#EXTINF:-1 tvg-name="MEYHANE SARKILARI" tvg-id=" MEYHANE SARKILARI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", MEYHANE SARKILARI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583018&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , 80'S RB SOUL GROOVE
+
+#EXTINF:-1 tvg-name="80'S RB SOUL GROOVE" tvg-id=" 80'S RB SOUL GROOVE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", 80'S RB SOUL GROOVE
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583017&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ERKIN KORAY
+
+#EXTINF:-1 tvg-name="ERKIN KORAY" tvg-id=" ERKIN KORAY" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", ERKIN KORAY
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583016&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TEOMAN
+
+#EXTINF:-1 tvg-name="TEOMAN" tvg-id=" TEOMAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", TEOMAN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583015&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , MOTIVE
+
+#EXTINF:-1 tvg-name="MOTIVE" tvg-id=" MOTIVE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", MOTIVE
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583014&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SOFAR 3
+
+#EXTINF:-1 tvg-name="SOFAR 3" tvg-id=" SOFAR 3" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SOFAR 3
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583013&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SOFAR SOUND 1
+
+
+#EXTINF:-1 tvg-name="SOFAR 1" tvg-id=" SOFAR 1" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SOFAR 1
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583012&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SOFAR SOUND 2
+
+
+#EXTINF:-1 tvg-name="SOFAR 2" tvg-id=" SOFAR 2" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SOFAR 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583011&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SOFAR SOUND 4
+
+
+#EXTINF:-1 tvg-name="SOFAR 4" tvg-id=" SOFAR 4" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SOFAR 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583010&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SOFAR SOUND 5
+
+
+#EXTINF:-1 tvg-name="SOFAR 5" tvg-id=" SOFAR 5" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", SOFAR 5
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583009&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ANADOLU ROCK
+
+#EXTINF:-1 tvg-name="ANADOLU ROCK" tvg-id=" ANADOLU ROCK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", ANADOLU ROCK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583008&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , HUZUNLU AKUSTIK
+
+#EXTINF:-1 tvg-name="HUZUNLU AKUSTIK" tvg-id=" HUZUNLU AKUSTIK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", HUZUNLU AKUSTIK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583007&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ 45LİK
+
+#EXTINF:-1 tvg-name="NOSTAJİ 45LİK" tvg-id=" NOSTAJİ 45LİK" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", NOSTAJİ 45LİK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583006&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , CEM ADRIAN
+
+#EXTINF:-1 tvg-name="CEM ADRIAN" tvg-id=" CEM ADRIAN" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", CEM ADRIAN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583005&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ARABESK KRALI
+
+#EXTINF:-1 tvg-name="ARABESK KRALI" tvg-id=" ARABESK KRALI" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", ARABESK KRALI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583004&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , BARIS MANCO
+
+#EXTINF:-1 tvg-name="BARIS MANCO" tvg-id=" BARIS MANCO" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", BARIS MANCO
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583003&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KORAY AVCİ
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583002&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , PIANO
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583001&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , IBRAHIM TATLISES EN SEVILEN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583000&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , FASIL RUHU
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582999&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , RAINY JAZZY
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582998&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , TURKCE REMIX
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582997&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , BLUES
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582996&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SAKINLESTIRICI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582995&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK RAP
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582994&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , AHMET ASLAN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582993&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , JAZZ BALTICA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582992&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ROCK MUZIK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582991&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , CEZA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582990&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , DEEP FEELING
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582989&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , HIRAI ZERDUS
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582988&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , METALLICA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582987&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , CEM KARACA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582986&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , YABANCI RAP
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582985&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , YABANCI KARISIK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582984&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SHAKIRA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582983&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , BEYONCE
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582982&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , RIHANNA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582981&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ADELE
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582980&extension=ts
+
 #EXTINF:-1 tvg-name="KANUN GITAR" tvg-id=" KANUN GITAR.tr" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="Muzik", KANUN GITAR
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582979&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , YABANCI MİX
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582978&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ UNUTULMAYAN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582977&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ UNUTULMAYAN 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582976&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ UNUTULMAYAN 3
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582975&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ 1990LAR
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582974&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ 1990LAR  1
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582973&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ 1990LAR 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582972&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ 1990LAR 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582971&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ 1980LAR TURK SANAT MUZIGI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582970&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , MEYHANE SARKILARI 5
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582969&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , MEYHANE SARKILARI 6
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582968&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , MEYHANE SARKILARI 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582967&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJI EGLENCELI PARCALAR
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582966&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ EGLENCELİ 45LİK PARCALAR
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582965&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ PARCALAR 1
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582964&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ PARCALAR 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582963&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ PARCALAR 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582962&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ PARCALAR 3
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582961&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , NOSTAJİ PARCALAR 5
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582960&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , GECMISTEN BUGUNE 1
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582959&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , GECMISTEN BUGUNE 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582958&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , GECMISTEN BUGUNE 3
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582957&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , GECMISTEN BUGUNE 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582956&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , GECMISTEN BUGUNE 5
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582955&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , COCUKLARI ICIN DINLENDIRICI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582954&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KENAN DOGULU
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582953&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SERDAR ORTAC
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582952&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , EYLEM AKTAS
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582951&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , HANDE YENER
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582950&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ASKIN NUR YENGI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582949&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , EMRE AYDIN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582948&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , IREM DERICI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582947&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , AHMET KAYA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582946&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , AJDA PEKKAN
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582945&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , SEBNEM FERAH
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582944&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , COCUK SARKILARI
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582943&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , DINLENDIRICI MUZIK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582942&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , ROMANTIK PIANO  MUZIK
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582941&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK MUZIK 1
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582940&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK MUZIK 2
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582939&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK MUZIK 3
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582938&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK MUZIK 4
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582937&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" , KARISIK MUZIK 5
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=582936&extension=ts
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/Q7j5x4Yr/15.png" , ✦●✦ RADYO ✦●✦
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=263574&extension=ts
+
+
+
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2017/01/google-play-music-logo.png" , A SPOR RADYO
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=263577&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2017/01/google-play-music-logo.png" , A PARA RADYO
