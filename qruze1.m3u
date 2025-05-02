@@ -73,115 +73,179 @@ http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1863&ext
 #EXTINF:-1 tvg-name="KANAL 7 HD" tvg-id=" KANAL 7 HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", KANAL 7 HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1864&extension=ts
 
-
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/FbhPz9LZ/33.png" , KANAL 7 AVRUPA FHD
+#EXTINF:-1 tvg-name="KANAL 7 AVRUPA FHD" tvg-id=" KANAL 7 AVRUPA FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", KANAL 7 AVRUPA FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1865&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/zz9gDcT/26.png" , TEVE 2 FHD
+
+#EXTINF:-1 tvg-name="TEVE 2 FHD" tvg-id=" TEVE 2 FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TEVE 2 FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1866&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/cKQ4wjcR/35.png" , TEVE 2 HD
+
+#EXTINF:-1 tvg-name="TEVE 2 HD" tvg-id=" TEVE 2 HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TEVE 2 HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1867&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/fV234cGC/30.png" , A2 FHD
+
+#EXTINF:-1 tvg-name="A2 FHD" tvg-id=" A2 FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", A2 FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1868&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/S4T5s8T9/52.png" , A2 HD
+
+#EXTINF:-1 tvg-name="A2 HD" tvg-id=" A2 HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", A2 HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1869&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/N6PTvcQS/28.png" , 360 TV FHD
+
+#EXTINF:-1 tvg-name="360 TV FHD" tvg-id=" 360 TV FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", 360 TV FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1870&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/XZ3fRv79/53.png" , 360 TV HD
+
+#EXTINF:-1 tvg-name="360 TV HD" tvg-id=" 360 TV HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", 360 TV HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1871&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7xXB7KdL/54.png" , TV 4 FHD
+
+#EXTINF:-1 tvg-name="TV 4 FHD" tvg-id=" TV 4 FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TV 4 FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=2168&extension=ts
+
+#EXTINF:-1 tvg-name="TV 4 HD" tvg-id=" TV 4 HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TV 4 HD
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7xXB7KdL/54.png" , TV 4 HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=2167&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/0p5TDhTB/36.png" , TRT AVAZ FHD
+
+#EXTINF:-1 tvg-name="TRT AVAZ FHD" tvg-id=" TRT AVAZ FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TRT AVAZ FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1879&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/CpzLSJqG/57.png" , TRT AVAZ HD
+
+#EXTINF:-1 tvg-name="TRT AVAZ HD" tvg-id=" TRT AVAZ HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TRT AVAZ HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1880&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/jPxgqzMX/38.png" , SHOW MAX FHD
+
+#EXTINF:-1 tvg-name="SHOW MAX FHD" tvg-id=" SHOW MAX FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", SHOW MAX FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1873&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/qKMsb6c/40.png" , SHOW TURK FHD
+
+#EXTINF:-1 tvg-name="SHOW TURK FHD" tvg-id=" SHOW TURK FHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", SHOW TURK FHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1874&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/v4nyGHcg/58.png" , ATV AVRUPA
+
+#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id=" ATV AVRUPA.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", ATV AVRUPA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1875&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Tabii.png" , TABII TV
+
+#EXTINF:-1 tvg-name="TABII TV" tvg-id=" TABII TV.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TABII TV
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=578322&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/93HH290b/cine6.png" , CINE 6
+
+#EXTINF:-1 tvg-name="CINE 6" tvg-id=" CINE 6.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", CINE 6
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=583513&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/2pLyzLR/59.png" , EURO STAR
+
+#EXTINF:-1 tvg-name="EURO STAR" tvg-id=" EURO STAR.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", EURO STAR
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1876&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/4Z98zDcb/60.png" , EURO D
+
+#EXTINF:-1 tvg-name="EURO D" tvg-id=" EURO D.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", EURO D
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1877&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/yBZrdPFf/61.png" , TV 8 INT
+
+#EXTINF:-1 tvg-name="TV 8 INT" tvg-id=" TV 8 INT.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TV 8 INT
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1883&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/kgkBxqcJ/63.png" , TRT TURK HD
+
+#EXTINF:-1 tvg-name="TRT TURK HD" tvg-id=" TRT TURK HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TRT TURK HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1878&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/kVDQcsx9/64.png" , TRT ARABI
-http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1881&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/Lhp646fs/tiviturk.png" , TIVI TURK HD
+
+
+#EXTINF:-1 tvg-name="TIVI TURK HD" tvg-id=" TIVI TURK HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TIVI TURK HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=67665&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/Qvh0WGQ7/65.png" , KIBRIS TV
+
+#EXTINF:-1 tvg-name="KIBRIS TV" tvg-id=" KIBRIS TV.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="KIBRIS", KIBRIS TV
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1886&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/sd2cgqB1/66.png" , KIBRIS ADA TV
+
+#EXTINF:-1 tvg-name="KIBRIS ADA TV" tvg-id=" KIBRIS ADA TV.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="KIBRIS", KIBRIS ADA TV
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1887&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/7dVLNf1X/67.png" , KIBRIS KANAL T
+
+#EXTINF:-1 tvg-name="KIBRIS KANAL T" tvg-id=" KIBRIS KANAL T.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="KIBRIS", KIBRIS KANAL T
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1888&extension=ts
+
+#EXTINF:-1 tvg-name="KIBRIS GENC TV" tvg-id=" KIBRIS GENC TV.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="KIBRIS", KIBRIS GENC TV
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/tp53cZS4/68.png" , KIBRIS GENC TV
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1889&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/SFQ6cd4/69.png" , KIBRIS TV 2020 HD
+
+#EXTINF:-1 tvg-name=" KIBRIS TV 2020 HD" tvg-id="  KIBRIS TV 2020 HD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="KIBRIS",  KIBRIS TV 2020 HD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1892&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/bgyPMNQg/70.png" , TRT EBA
+
+#EXTINF:-1 tvg-name="TRT EBA" tvg-id=" TRT EBA.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal", TRT EBA
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1894&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/Lz6nw80C/trqhd.png" , ✦●✦ QHD ✦●✦
+
+
+#EXTINF:-1 tvg-name="TRT 1 QHD" tvg-id=" TRT 1 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", TRT 1 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268153&extension=ts
+
+#EXTINF:-1 tvg-name="TRT 1 QHD" tvg-id=" TRT 1 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", TRT 1 QHD
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/k6WPKbdV/2.png" , TRT 1 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268106&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/k2F1zffG/3.png" , ATV QHD
+
+#EXTINF:-1 tvg-name="TRT 1 QHD" tvg-id=" TRT 1 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", ATV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268107&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/8L5ctWQY/4.png" , STAR TV QHD
+
+#EXTINF:-1 tvg-name="TRT 1 QHD" tvg-id=" TRT 1 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", STAR TV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268110&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/5XRx8qwm/5.png" , SHOW TV QHD
+
+#EXTINF:-1 tvg-name="SHOW TV QHD" tvg-id=" SHOW TV QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", SHOW TV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268108&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/1GZHLXVJ/6.png" , KANAL D QHD
+
+#EXTINF:-1 tvg-name="KANAL D QHD" tvg-id=" KANAL D QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", KANAL D QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268109&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/5g5JY2Ht/7.png" , NOW TV QHD
+
+#EXTINF:-1 tvg-name="NOW TV QHD" tvg-id=" NOW TV QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", NOW TV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268111&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/Hcg5ZBx/8.png" , TV 8 QHD
+
+#EXTINF:-1 tvg-name="TV 8 QHD" tvg-id=" TV 8 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", TV 8 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268112&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/PbQ7g2y/9.png" , TV 8.5 QHD
+
+#EXTINF:-1 tvg-name="TV 8.5 QHD" tvg-id=" TV 8.5 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", TV 8.5 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268113&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/rKtQzFnv/10.png" , BEYAZ TV QHD
+
+#EXTINF:-1 tvg-name="BEYAZ TV QHD" tvg-id=" BEYAZ TV QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", BEYAZ TV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268114&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/mF42qBGR/11.png" , KANAL 7 QHD
+
+#EXTINF:-1 tvg-name="KANAL 7 QHD" tvg-id=" KANAL 7 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", KANAL 7 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268115&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/TxX7wv1W/12.png" , TEVE 2 QHD
+
+#EXTINF:-1 tvg-name="TEVE 2 QHD" tvg-id=" TEVE 2 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", TEVE 2 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268117&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/TBYJDRD0/13.png" , TV 360 QHD
+
+#EXTINF:-1 tvg-name="TV 360 QHD" tvg-id=" TV 360 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", TV 360 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268116&extension=ts
+
+#EXTINF:-1 tvg-name="A2 QHD" tvg-id=" A2 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Ulusal QHD", A2 QHD
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/CpqDgQ2B/14.png" , A2 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268118&extension=ts
+
+#EXTINF:-1 tvg-name="TRT HABER QHD" tvg-id=" TRT HABER QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", TRT HABER QHD
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/J8YMw0F/15.png" , TRT HABER QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268122&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/sdfnRrfj/16.png" , CNN TÜRK QHD
+
+#EXTINF:-1 tvg-name="CNN TÜRK QHD" tvg-id=" CNN TÜRK QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", CNN TÜRK QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268120&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/RGLScmmJ/17.png" , NTV QHD
+
+#EXTINF:-1 tvg-name="NTV QHD" tvg-id=" NTV QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", NTV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268123&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/x8mFyRTY/18.png" , A HABER QHD
+
+#EXTINF:-1 tvg-name="A HABER QHD" tvg-id=" A HABER QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", A HABER QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268119&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/czBmpB4/19.png" , HALK TV QHD
+
+#EXTINF:-1 tvg-name="HALK TV QHD" tvg-id=" HALK TV QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", HALK TV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268127&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/21ZLczBJ/21.png" , HABERTÜRK QHD
+
+#EXTINF:-1 tvg-name="HABERTÜRK QHD" tvg-id=" HABERTÜRK QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", HABERTÜRK QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268121&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/9MrJ0w1/22.png" , HABER GLOBAL QHD
+
+#EXTINF:-1 tvg-name="HABER GLOBAL QHD" tvg-id=" HABER GLOBAL QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", HABER GLOBAL QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268130&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/8g0qJsPC/23.png" , TV100 QHD
+
+#EXTINF:-1 tvg-name=TV100 QHD" tvg-id=" TV100 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", TV100 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268128&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/yx90cRC/24.png" , KANAL 24 QHD
+
+#EXTINF:-1 tvg-name="KANAL 24 QHD" tvg-id=" KANAL 24 QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", KANAL 24 QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268129&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/HDgWwg4y/25.png" , ÜLKE TV QHD
+
+#EXTINF:-1 tvg-name=" ÜLKE TV QHD" tvg-id="  ÜLKE TV QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD",  ÜLKE TV QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268126&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/CK7PcbPL/26.png" , BLOOMBERG HT QHD
+
+#EXTINF:-1 tvg-name="BLOOMBERG HT QHD" tvg-id=" BLOOMBERG HT QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", BLOOMBERG HT QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268125&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/v4qTmBww/27.png" , TGRT HABER QHD
+
+#EXTINF:-1 tvg-name="TGRT HABER QHD" tvg-id=" TGRT HABER QHD.tr" tvg-logo="https://i.ibb.co/3Y1Wz4zm/32.png" group-title="Haber QHD", TGRT HABER QHD
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=268124&extension=ts
+
+
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/NgFjgXdS/trhevcraw.png" , ✦●✦ HEVC | RAW ✦●✦
 http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=1945&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.ibb.co/dsw3Jd7D/2.png" , ↺TRT 1 HEVC
